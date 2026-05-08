@@ -376,7 +376,7 @@ Licensed under the GNU General Public License v3 (GPL v3).
 
 ## 👨‍💻 Author
 
-Developed and managed by Programming with Nitin
+Developed and managed by Nitin Kumar.
 
 AI-assisted development using modern AI tools and automation workflows.
 ---
